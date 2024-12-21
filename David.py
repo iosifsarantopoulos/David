@@ -198,3 +198,4 @@ if __name__ == "__main__":
     app = QApplication([])
     quiz = David()
     sys.exit(app.exec_())
+
